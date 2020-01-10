@@ -8,3 +8,4 @@ Created on Fri Jan 10 18:10:05 2020
 
 a = 5
 print(a*2)
+print(5)
